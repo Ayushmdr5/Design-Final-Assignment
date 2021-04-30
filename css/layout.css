@@ -71,7 +71,7 @@
   right: 0;
   color: #fde428;
 }
-.drop-icon{
+.drop-icon {
   padding: 15px 0 11px;
 }
 
@@ -154,7 +154,7 @@
 .fourth-img {
   max-width: 100%;
 }
-.map-img{
+.map-img {
   max-width: 100%;
 }
 .fourth-text-content {
@@ -165,16 +165,15 @@
 /* FOURTH CONTENT END  */
 
 /* FIFTH CONTENT  */
-.fifth-container{
+.fifth-container {
   width: 100%;
   background-color: #002e5b;
-
 }
 .fifth-content {
   width: 100%;
   padding: 40px 4%;
 }
-.fifth-list{
+.fifth-list {
   width: 100%;
   /* background-color: chocolate; */
   text-align: center;
@@ -198,77 +197,75 @@
 .sixth-left {
   margin: 25px 0;
 }
-.second-line{
+.second-line {
   width: 300px;
   margin: 0 auto;
 }
 .second-img {
   width: 300px;
-
 }
-  /* FOR SIXTH CONTENT END   */
+/* FOR SIXTH CONTENT END   */
 
-  
-  /* FOR SEVENTH CONTENT  */
-  .seventh-container{
-    width: 100%;
-    background: linear-gradient(#082d52, #05213b);
-    padding: 0 4%;
-  }
-  .seventh-content{
-    margin: 0 auto;
-    padding: 70px 0;
-    text-align: center;
-    color: white;
-    font-family: "Myriad Pros";
-    max-width: 900px;
-    line-height: 25px;
-  }
-  /* FOR SEVENTH CONTENT END  */
+/* FOR SEVENTH CONTENT  */
+.seventh-container {
+  width: 100%;
+  background: linear-gradient(#082d52, #05213b);
+  padding: 0 4%;
+}
+.seventh-content {
+  margin: 0 auto;
+  padding: 70px 0;
+  text-align: center;
+  color: white;
+  font-family: "Myriad Pros";
+  max-width: 900px;
+  line-height: 25px;
+}
+/* FOR SEVENTH CONTENT END  */
 
-  .contactUs-bottom-content{
-    width: 300px;
-    margin: 10% auto;
-  }
-  .contactus-text-content{
-    width: 100%;
-    padding: 20px 20px;
-    float: left;
-  }
-  .contactus-icon{
-    width: 30px;
-    float: left;
-    margin-top: 2px;
-  }
-  .contactus-text{
-    width: 80%;
-    float: left;
-    font-weight: 500;
-  }
-  .contactUs-image-content{
-    width: 300px;
-    margin: 0 auto;
-    float: left;
-  }
-  .social-icon-container{
-    float: right;
-  }
-  .social-icon-container{
-    width: 100%;
-    margin-top: 10px;
-  }
-  .footer-text{
-    width: 100%;
-    float: left;
-    color: white;
-    margin: 10px 0;
-  }
-  .footer-icon{
-    padding: 0 10px;
-  }
-  .link-container{
-    width: 100%;
-  }
+.contactUs-bottom-content {
+  width: 300px;
+  margin: 10% auto;
+}
+.contactus-text-content {
+  width: 100%;
+  padding: 20px 20px;
+  float: left;
+}
+.contactus-icon {
+  width: 30px;
+  float: left;
+  margin-top: 2px;
+}
+.contactus-text {
+  width: 80%;
+  float: left;
+  font-weight: 500;
+}
+.contactUs-image-content {
+  width: 300px;
+  margin: 0 auto;
+  float: left;
+}
+.social-icon-container {
+  float: right;
+}
+.social-icon-container {
+  width: 100%;
+  margin-top: 10px;
+}
+.footer-text {
+  width: 100%;
+  float: left;
+  color: white;
+  margin: 10px 0;
+}
+.footer-icon {
+  padding: 0 10px;
+}
+.link-container {
+  width: 100%;
+}
 
 @media screen and (min-width: 765px) {
   .right {
@@ -330,7 +327,7 @@
   .fourth-container {
     margin: 6% 0;
   }
-  .fourth-bottom-content{
+  .fourth-bottom-content {
     margin: 6% 0;
   }
 
@@ -340,7 +337,7 @@
   .fourth-text-content {
     margin-top: 0px;
   }
-  
+
   .fourth-top-container {
     width: 50%;
     margin: 0 auto;
@@ -349,19 +346,19 @@
     margin: 0 auto;
     max-width: 768px;
   }
-  .fifth-list{
+  .fifth-list {
     width: 50%;
     float: left;
   }
-  .sixth-left{
+  .sixth-left {
     margin: 50px 0;
   }
-  .social-icon-container{
+  .social-icon-container {
     width: 180px;
     margin: 5px 0;
     float: right;
   }
-  .footer-text{
+  .footer-text {
     width: 25%;
     margin: 5px 0;
   }
@@ -390,7 +387,6 @@
   .second-left {
     width: 50%;
     float: left;
-    
   }
   .second-right {
     height: 413px;
@@ -407,7 +403,7 @@
     right: -99px;
     position: absolute;
   }
-  
+
   .third-container {
     margin: 0;
   }
@@ -453,13 +449,12 @@
   .fourth-text-content {
     float: left;
     margin-top: 10px;
-
   }
-  .fifth-list{
+  .fifth-list {
     width: 25%;
     padding: 75px 0;
   }
-  .fifth-content{
+  .fifth-content {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 4%;
@@ -473,7 +468,7 @@
     margin: 0;
     /* background-color: red; */
   }
-  .seventh-content{
+  .seventh-content {
     padding: 100px 0;
   }
 
